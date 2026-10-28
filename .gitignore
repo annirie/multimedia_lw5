@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+weights/
+*.pt
+datasets/
+#output/
+#data/synthetic.mp4
+
+# large media files
+#data/videos/

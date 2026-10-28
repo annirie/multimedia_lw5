@@ -1,0 +1,5 @@
+iou_threshold,boxes_raw,boxes_own_nms,boxes_ultralytics_nms
+0.3000,42,6,6
+0.5000,42,6,6
+0.7000,42,6,6
+0.9000,42,7,7
